@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{7F66A039-8BF1-4354-A383-31254F7E6EA3}|Default">
+  <MonoDevelop.Ide.ItemProperties.SupportEventCalendarXF FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DemoEventCalendar/MainPage.xaml">
+    <Files>
+      <File FileName="DemoEventCalendar/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="DemoEventCalendar/MainPage.xaml" Line="7" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SupportEventCalendarXF" expanded="True">
+            <Node name="DemoAPP" expanded="True">
+              <Node name="DemoEventCalendar" expanded="True" />
+              <Node name="DemoEventCalendar.Android" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DemoAPP.DemoEventCalendar FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.SupportEventCalendarXF.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.SupportEventCalendarXF.Droid FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DemoAPP.DemoEventCalendar.Android FirstBuild="True" PreferredExecutionTarget="Android.my_device" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DemoAPP.DemoEventCalendar.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
